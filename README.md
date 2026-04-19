@@ -1,5 +1,7 @@
 ### Hey, I'm Lucas! 👋
 
-- 🎓 I'm a community college student working on my A.S. in Computer Science!
-- 🌱 Building [@professor.kpop](https://instagram.com/professor.kpop) — an automated K-POP education brand on Instagram & TikTok
-- 🚀 Previously at Composio, Cluely, and TypeOS (YC X25)
+- 🔭 I’m currently working on my B.A. in Data Science at the University of California, Berkeley.
+- 🌱 I was most recently a Software Engineer intern at Snap Inc. working on the Machine Learning Feature Store Team.
+
+✨ Check me out here! 
+- LinkedIn: https://www.linkedin.com/in/lucastrinh/
